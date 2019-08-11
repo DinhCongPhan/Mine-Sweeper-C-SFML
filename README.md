@@ -1,1 +1,1 @@
-# Mine-Sweeper-C-SFML
+# Mine-Sweeper-C++-SFML

@@ -1,0 +1,23 @@
+﻿  Game.cpp
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(55,22): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(55,43): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(78,23): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(78,44): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(280,11): warning C4244:  'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(280,11): warning C4244:         with
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(280,11): warning C4244:         [
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(280,11): warning C4244:             T=int
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(280,11): warning C4244:         ]
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(281,11): warning C4244:  'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(281,11): warning C4244:         with
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(281,11): warning C4244:         [
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(281,11): warning C4244:             T=int
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(281,11): warning C4244:         ]
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(292,22): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(292,43): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(332,33): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  GameMessage.cpp
+  main.cpp
+  Generating Code...
+C:\Users\ABC\source\repos\Mine_Sweeper\Mine_Sweeper\Game.cpp(333,33): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Mine_Sweeper.vcxproj -> C:\Users\ABC\source\repos\Mine_Sweeper\x64\Debug\Mine_Sweeper.exe
